@@ -22,19 +22,19 @@
     "url": "https://backwawbot.onrender.com/seed",
     "icon": "https://icons.duckduckgo.com/ip3/backwawbot.onrender.com.ico",
     "slug": "whatsapp-web-bot-backend",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-01-19": 16
+      "2023-01-19": 25
     }
   }
 ]
