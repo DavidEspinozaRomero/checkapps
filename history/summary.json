@@ -22,7 +22,7 @@
     "url": "https://backwawbot.onrender.com/seed",
     "icon": "https://icons.duckduckgo.com/ip3/backwawbot.onrender.com.ico",
     "slug": "whatsapp-web-bot-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
@@ -34,6 +34,7 @@
     "timeMonth": 1402,
     "timeYear": 1402,
     "dailyMinutesDown": {
+      "2023-02-08": 0,
       "2023-02-06": 18,
       "2023-02-05": 18,
       "2023-02-01": 36,
