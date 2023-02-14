@@ -7,8 +7,8 @@ sites:
     url: https://wwbot.netlify.app
   - name: Whatsapp Web Bot Backend
     url: https://backwawbot.onrender.com/seed
-#   - name: Hacker News
-#     url: https://news.ycombinator.com
+  - name: Personal Page
+    url: https://davidespinozaromero.github.io
 
 
 status-website:
