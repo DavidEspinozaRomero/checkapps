@@ -4,19 +4,19 @@
     "url": "https://wwbot.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/wwbot.netlify.app.ico",
     "slug": "whatsapp-web-bot-frontend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 80,
-    "timeWeek": 74,
-    "timeMonth": 134,
+    "timeDay": 65,
+    "timeWeek": 70,
+    "timeMonth": 131,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 20
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 207,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-07-27": 900,
+      "2024-07-27": 920,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
