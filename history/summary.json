@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 123,
-    "timeWeek": 122,
-    "timeMonth": 177,
+    "timeDay": 98,
+    "timeWeek": 123,
+    "timeMonth": 179,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-07-27": 20
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backwawbot.onrender.com.ico",
     "slug": "whatsapp-web-bot-backend",
     "status": "down",
-    "uptime": "12.15%",
+    "uptime": "12.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 284,
-    "timeDay": 154,
-    "timeWeek": 190,
-    "timeMonth": 195,
-    "timeYear": 227,
+    "time": 283,
+    "timeDay": 179,
+    "timeWeek": 176,
+    "timeMonth": 194,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-08-19": 82,
+      "2024-08-20": 80,
+      "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -399,8 +400,7 @@
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
-      "2023-08-22": 1440,
-      "2023-08-21": 1440
+      "2023-08-22": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 93,
-    "timeWeek": 88,
-    "timeMonth": 94,
+    "timeDay": 137,
+    "timeWeek": 101,
+    "timeMonth": 93,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
