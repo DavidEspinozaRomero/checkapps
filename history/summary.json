@@ -4,7 +4,7 @@
     "url": "https://wwbot.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/wwbot.netlify.app.ico",
     "slug": "whatsapp-web-bot-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 265,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-01-21": 126,
+      "2026-01-21": 649,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
