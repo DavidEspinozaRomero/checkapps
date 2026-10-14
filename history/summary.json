@@ -22,18 +22,20 @@
     "url": "https://jornadagoserver.onrender.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/jornadagoserver.onrender.com.ico",
     "slug": "jornada-go-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 31774,
-    "timeDay": 226,
-    "timeWeek": 30858,
-    "timeMonth": 32946,
-    "timeYear": 31774,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.69%",
+    "time": 30895,
+    "timeDay": 185,
+    "timeWeek": 27019,
+    "timeMonth": 31888,
+    "timeYear": 30895,
+    "dailyMinutesDown": {
+      "2026-10-14": 155
+    }
   },
   {
     "name": "Personal Page",
@@ -50,7 +52,7 @@
     "timeDay": 153,
     "timeWeek": 145,
     "timeMonth": 170,
-    "timeYear": 133,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   }
 ]
