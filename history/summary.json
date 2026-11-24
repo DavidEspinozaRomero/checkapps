@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 352,
-    "timeWeek": 443,
-    "timeMonth": 566,
-    "timeYear": 587,
+    "time": 584,
+    "timeDay": 351,
+    "timeWeek": 428,
+    "timeMonth": 556,
+    "timeYear": 584,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jornadagoserver.onrender.com.ico",
     "slug": "jornada-go-server",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 33083,
-    "timeDay": 36102,
-    "timeWeek": 34566,
-    "timeMonth": 36246,
-    "timeYear": 33083,
+    "uptimeYear": "99.86%",
+    "time": 33122,
+    "timeDay": 36087,
+    "timeWeek": 33849,
+    "timeMonth": 35761,
+    "timeYear": 33122,
     "dailyMinutesDown": {
       "2026-10-14": 155
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 81,
-    "timeWeek": 146,
-    "timeMonth": 153,
-    "timeYear": 137,
+    "time": 134,
+    "timeDay": 69,
+    "timeWeek": 136,
+    "timeMonth": 150,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   }
 ]
